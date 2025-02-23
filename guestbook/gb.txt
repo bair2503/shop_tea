@@ -1,0 +1,13 @@
+Андрей|adrey@mail.ru|Привет Мир!|2021-05-11 18:25:09
+***
+Вася|bair@mail.ru|Hi! Это сообщение два|2021-05-11 18:25:54
+***
+Петя|test@mail.ru|))))|2021-05-11 18:26:09
+***
+Bair|bair@mail.ru|Hello Pety|2021-05-11 18:56:27
+***
+Alex|bair@mail.ru|<script>alert('Привет от ALEX!)))')</script>|2021-05-11 19:09:14
+***
+Alex|test@mail.ru|<script>alert('Привет от Alex!)))')
+</script>|2021-05-11 19:13:16
+***
